@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Abhay Mhatre
 
 <p align="center">
-  <strong><font size="4">Full Stack Developer</font></strong>
+  <strong><font size="4">Python Developer</font></strong>
 </p>
 
 * 👨🏻‍🎓 Currently pursuing Computer Science Engineering  
